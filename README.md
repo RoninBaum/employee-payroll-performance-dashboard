@@ -1,26 +1,17 @@
-\# Employee Payroll \& Performance Dashboard
+# Employee Payroll & Performance Dashboard
 
+A C++ console application for tracking employee payroll and performance data. Built as a learning project to practice **classes**, **arrays/vectors**, and **pointers** in C++.
 
-
-A C++ console application for tracking employee payroll and performance data. Built as a learning project to practice \*\*classes\*\*, \*\*arrays/vectors\*\*, and \*\*pointers\*\* in C++.
-
-
-
-\## Project Status
-
-
+## Project Status
 
 🚧 Work in progress — currently on Stage 1 of the build plan.
 
+- [x] Employee class with private data members, constructor, getters, and setters
 
+- [ ] Behavior methods using <cmath> and <ctime> (e.g. pay calculations, hire dates)
 
-\- \[x] `Employee` class with private data members, constructor, getters, and setters
+- [ ] Managing a vector <Employee> (a full company roster) + a random test data generator using <random>
 
-\- \[ ] Behavior methods using `<random>`, `<cmath>`, and `<ctime>` (e.g. performance scoring, pay calculations, hire dates)
+- [ ] Pointer-based operations across the employee collection
 
-\- \[ ] Managing a `vector<Employee>` (a full company roster)
-
-\- \[ ] Pointer-based operations across the employee collection
-
-\- \[ ] Interactive console menu (add/view/edit employees, generate reports)
-
+- [ ] Interactive console menu (add/view/edit employees, generate reports)
