@@ -4,7 +4,7 @@ A C++ console application for tracking employee payroll and performance data. Bu
 
 ## Project Status
 
-🚧 Work in progress — currently on Stage 1 of the build plan.
+🚧 Work in progress — currently on Stage 2 of the build plan.
 
 - [x] Employee class with private data members, constructor, getters, and setters
 
